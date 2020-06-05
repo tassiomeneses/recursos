@@ -1,0 +1,11 @@
+br/com/recursos/entity/EmployerDTO.class
+br/com/recursos/entity/Pessoa.class
+br/com/recursos/entity/Setor.class
+br/com/recursos/RecursosApplication.class
+br/com/recursos/service/PessoaService.class
+br/com/recursos/controller/PessoaController.class
+br/com/recursos/repository/PessoaRepository.class
+br/com/recursos/scheduled/ScheduledTasks.class
+br/com/recursos/service/SetorService.class
+br/com/recursos/repository/SetorRepository.class
+br/com/recursos/controller/SetorController.class
